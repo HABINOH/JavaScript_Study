@@ -12,6 +12,7 @@
 7. 삼항 연산자
 8. if문
 9. if~else문
+10. if~else if문
 
 
 </pre>
