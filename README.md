@@ -16,6 +16,7 @@
 11. alert, prompt
 12. switch문
 13. switch문-2
+14. for문
 
 
 
