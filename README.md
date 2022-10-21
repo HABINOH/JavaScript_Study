@@ -19,6 +19,7 @@
 14. for문
 15. for문-2
 16. break/continue 문
+17. while문
 
 
 </pre>
