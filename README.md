@@ -21,6 +21,7 @@
 16. break/continue 문
 17. while문
 18. do~while문
+19. 선언적 함수
 
 
 </pre>
