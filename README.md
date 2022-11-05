@@ -34,6 +34,8 @@
 29. 브라우저 객체 모델
 30. 브라우저 객체 모델-2
 31. getElementById
+32. getElementsByName
+33. 
 
 
 
