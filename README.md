@@ -36,8 +36,9 @@
 31. getElementById
 32. getElementsByName
 33. getElementsByTagName
-34. 
-
+34. Insert title here
+15.
+16. 
 
 
 
