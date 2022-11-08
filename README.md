@@ -37,8 +37,8 @@
 32. getElementsByName
 33. getElementsByTagName
 34. Insert title here
-15.
-16. 
+35. 문서 객체 모델
+36. 
 
 
 
