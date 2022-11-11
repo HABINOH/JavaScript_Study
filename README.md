@@ -38,7 +38,8 @@
 33. getElementsByTagName
 34. Insert title here
 35. 문서 객체 모델
-36. 
+36. 인라인 이벤트 모델
+37. 인라인 이벤트 모델2
 
 
 
