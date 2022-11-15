@@ -44,7 +44,7 @@
 39. 표준 이벤트 모델
 40. JSON
 41. JSON 로그인
-42. 
+42. JSON stringfy와 parse 
 
 
 
